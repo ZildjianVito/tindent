@@ -176,7 +176,7 @@ p {
 
 /* Phone n Tablet Responsive */
 
-@media (max-width: 991px) {
+@media (max-width: 500px) {
     .fotoipon {
         transform: rotate(0);
         -webkit-transform: rotate(0);
